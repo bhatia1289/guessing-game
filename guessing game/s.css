@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    background-color:burlywood;
+}
+input{
+    border: 1px solid black;
+    height: 30px;
+}
+button{
+    height: 40px;
+    width: 60px;
+    border: 1px solid black;
+    border-radius: 6%;
+    background-color: yellow;
+}
+.main{
+    color: crimson;
+}
+h1{
+    color:darkviolet;
+}
